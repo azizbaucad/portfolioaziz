@@ -1,12 +1,11 @@
 "use client";
 import Image from "next/image";
-import port from "@/img/aziz_update.png";
-import sonatel from "@/img/sonatel.jpg";
-import ird from "@/img/ird.png";
-import bicis from "@/img/bicis.png";
-import innov from "@/img/innov.png";
-import dgid from "@/img/dgid.png";
-import defarsci from "@/img/defarsci.png";
+import port from "../img/aziz_update.png";
+import sonatel from "../img/sonatel.jpg";
+import ird from "../img/ird.png";
+import bicis from "../img/bicis.png";
+import innov from "../img/innov.png";
+import dgid from "../img/dgid.png";
 import { FiLinkedin, FiGithub } from "react-icons/fi";
 import { FaWhatsapp } from "react-icons/fa";
 import { PiWhatsappLogoBold } from "react-icons/pi";
