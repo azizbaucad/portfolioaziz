@@ -1,7 +1,7 @@
 "use client";
 import Image from "next/image";
 import port from "../img/aziz_update.png";
-import sonatel from "../img/sonatel.jpg";
+import sonatel from "../img/sonatel.png";
 import ird from "../img/ird.png";
 import bicis from "../img/bicis.png";
 import innov from "../img/innov.png";
