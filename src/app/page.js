@@ -1,5 +1,4 @@
-import { WelcomePage } from "@/components/welcome";
-import Image from "next/image";
+import { WelcomePage } from "components/welcome.js";
 
 export default function Home() {
   return (
